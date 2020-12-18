@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91820503-db4a-4b07-bb27-c950733221a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lmNvn75r6oom50uzRTsroJwGyx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Olik's\Studying\JawaScript\Homeworks\Module10" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.Module10_8.js">
+    <configuration name="Module10_3.js" type="NodeJSConfigurationType" temporary="true" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="Module10_3.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Module10_4.js" type="NodeJSConfigurationType" temporary="true" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="Module10_4.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Module10_6.js" type="NodeJSConfigurationType" temporary="true" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="Module10_6.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Module10_7.js" type="NodeJSConfigurationType" temporary="true" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="Module10_7.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Module10_8.js" type="NodeJSConfigurationType" temporary="true" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="Module10_8.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.Module10_3.js" />
+      <item itemvalue="Node.js.Module10_4.js" />
+      <item itemvalue="Node.js.Module10_6.js" />
+      <item itemvalue="Node.js.Module10_7.js" />
+      <item itemvalue="Node.js.Module10_8.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Module10_8.js" />
+        <item itemvalue="Node.js.Module10_7.js" />
+        <item itemvalue="Node.js.Module10_6.js" />
+        <item itemvalue="Node.js.Module10_3.js" />
+        <item itemvalue="Node.js.Module10_4.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91820503-db4a-4b07-bb27-c950733221a7" name="Default Changelist" comment="" />
+      <created>1608198539780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608198539780</updated>
+      <workItem from="1608198540921" duration="3964000" />
+      <workItem from="1608206465903" duration="18425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
