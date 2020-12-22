@@ -11,7 +11,7 @@ let zeroElements = 0;
 
 for (let i = 0; i < array.length; i++)
 {
-    if ((typeof array[i] == 'number') || (array[i] == array[i]) )
+    if ((typeof array[i] == 'number') && (array[i] == array[i]) )
     {
         if (array[i] !== 0)
         {

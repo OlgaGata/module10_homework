@@ -7,7 +7,7 @@
 let value = prompt("Введите число", '');
 let result = +value;
 
-if ((typeof result == 'number') || (result == result))
+if ((typeof result == 'number') && (result == result))
 {
     if (result%2 == 0)
     {
