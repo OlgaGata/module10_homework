@@ -11,3 +11,7 @@ while (i >= 0)
     i--;
 }
 console.log("Inverted string: " + newStr);
+
+// Всё верно, но можно решить задачу проще, не используя цикл:
+
+let reverseStr = str.split('').reverse().join('');
