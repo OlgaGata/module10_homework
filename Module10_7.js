@@ -13,20 +13,17 @@ for (let i = 0; i < array.length; i++)
 {
     if ((typeof array[i] == 'number') && (array[i] == array[i]) )
     {
-        if (array[i] !== 0)
-        {
-            if ((array[i]%2 == 0) && (array[i] != null))
-            {
-                evenElements++;
-            }
-            else if (array[i]%2 > 0)
-            {
-                oddElements++;
-            }
-        }else
-
+        if (array[i] === 0)
         {
             zeroElements++;
+        }
+        else if (array[i]%2 == 0) 
+        {
+            evenElements++;
+        }
+        else
+        {
+            oddElements++;
         }
     }
 }
@@ -34,3 +31,5 @@ console.log("Lenght of array = ", array.length);
 console.log("Quantity even elements of array = ", evenElements);
 console.log("Quantity odd elements of array = ", oddElements);
 console.log("Quantity zero elements of array = ", zeroElements);
+
+// Всё верно, но условные операторы можно чуть упростить и убрать одну лишнюю вложенность. Выше исправила
